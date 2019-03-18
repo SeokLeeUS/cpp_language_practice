@@ -1,0 +1,4 @@
+﻿  ex_4_21_cpp_while_loop_programming.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_4_21_cpp_while_loop_programming\ex_4_21_cpp_while_loop_programming\ex_4_21_cpp_while_loop_programming.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ex_4_21_cpp_while_loop_programming.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_4_21_cpp_while_loop_programming\Debug\ex_4_21_cpp_while_loop_programming.exe
+  ex_4_21_cpp_while_loop_programming.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_4_21_cpp_while_loop_programming\Debug\ex_4_21_cpp_while_loop_programming.pdb (Full PDB)
