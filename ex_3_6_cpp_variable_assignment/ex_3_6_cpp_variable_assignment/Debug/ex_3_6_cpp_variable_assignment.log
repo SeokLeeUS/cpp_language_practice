@@ -1,0 +1,5 @@
+﻿  ex_3_6_cpp_variable_assignment.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_3_6_cpp_variable_assignment\ex_3_6_cpp_variable_assignment\ex_3_6_cpp_variable_assignment.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\slee194\documents\visual studio 2015\projects\ex_3_6_cpp_variable_assignment\ex_3_6_cpp_variable_assignment\ex_3_6_cpp_variable_assignment.cpp(21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ex_3_6_cpp_variable_assignment.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_3_6_cpp_variable_assignment\Debug\ex_3_6_cpp_variable_assignment.exe
+  ex_3_6_cpp_variable_assignment.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_3_6_cpp_variable_assignment\Debug\ex_3_6_cpp_variable_assignment.pdb (Full PDB)
