@@ -1,0 +1,2 @@
+﻿  ex_7_21_function_best_practice.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_7_21_function_best_practice\ex_7_21_function_best_practice\ex_7_21_function_best_practice.cpp(5): error C3892: 'input': you cannot assign to a variable that is const
