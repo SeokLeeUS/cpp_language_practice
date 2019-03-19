@@ -1,4 +1,6 @@
 # cpp_language_practice
+
+the c++ codes are from the exercises @:
 https://classroom.udacity.com/courses/ud999
 
 history of c++:
