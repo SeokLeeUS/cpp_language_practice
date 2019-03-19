@@ -1,0 +1,5 @@
+﻿  ex_7_16_cpp_func_by_ref.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_7_16_cpp_func_by_ref\ex_7_16_cpp_func_by_ref\ex_7_16_cpp_func_by_ref.cpp(5): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_7_16_cpp_func_by_ref\ex_7_16_cpp_func_by_ref\ex_7_16_cpp_func_by_ref.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ex_7_16_cpp_func_by_ref.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_7_16_cpp_func_by_ref\Debug\ex_7_16_cpp_func_by_ref.exe
+  ex_7_16_cpp_func_by_ref.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_7_16_cpp_func_by_ref\Debug\ex_7_16_cpp_func_by_ref.pdb (Full PDB)
