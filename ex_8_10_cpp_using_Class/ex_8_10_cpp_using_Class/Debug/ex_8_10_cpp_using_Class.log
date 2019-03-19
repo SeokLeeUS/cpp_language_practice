@@ -1,0 +1,4 @@
+﻿  ex_8_10_cpp_using_Class.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_8_10_cpp_using_class\ex_8_10_cpp_using_class\ex_8_10_cpp_using_class.cpp(74): warning C4305: '=': truncation from 'double' to 'float'
+  ex_8_10_cpp_using_Class.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_8_10_cpp_using_Class\Debug\ex_8_10_cpp_using_Class.exe
+  ex_8_10_cpp_using_Class.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_8_10_cpp_using_Class\Debug\ex_8_10_cpp_using_Class.pdb (Full PDB)
