@@ -1,0 +1,8 @@
+﻿  ex_9_3_cpp_Class_overloading.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading.cpp(19): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading\ex_9_3_cpp_class_overloading.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ex_9_3_cpp_Class_overloading.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_9_3_cpp_Class_overloading\Debug\ex_9_3_cpp_Class_overloading.exe
+  ex_9_3_cpp_Class_overloading.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_9_3_cpp_Class_overloading\Debug\ex_9_3_cpp_Class_overloading.pdb (Full PDB)
