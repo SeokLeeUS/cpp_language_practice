@@ -1,0 +1,19 @@
+﻿  ex_10_5_cpp_template_ex2_diff_in_type.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(27): warning C4101: 'bigger': unreferenced local variable
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(40): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(29): note: see reference to function template instantiation 'T getBigger<int,float>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=float
+          ]
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(40): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  c:\users\slee194\documents\visual studio 2015\projects\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type\ex_10_5_cpp_template_ex2_diff_in_type.cpp(31): note: see reference to function template instantiation 'T getBigger<float,int>(T,U)' being compiled
+          with
+          [
+              T=float,
+              U=int
+          ]
+  ex_10_5_cpp_template_ex2_diff_in_type.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_10_5_cpp_template_ex2_diff_in_type\Debug\ex_10_5_cpp_template_ex2_diff_in_type.exe
+  ex_10_5_cpp_template_ex2_diff_in_type.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\ex_10_5_cpp_template_ex2_diff_in_type\Debug\ex_10_5_cpp_template_ex2_diff_in_type.pdb (Full PDB)
