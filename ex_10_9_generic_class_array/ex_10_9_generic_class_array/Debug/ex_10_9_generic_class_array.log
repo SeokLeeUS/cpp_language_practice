@@ -1,0 +1,5 @@
+﻿  ex_10_9_generic_class_array.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_9_generic_class_array\ex_10_9_generic_class_array\ex_10_9_generic_class_array.cpp(25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_9_generic_class_array\ex_10_9_generic_class_array\ex_10_9_generic_class_array.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ex_10_9_generic_class_array.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_9_generic_class_array\Debug\ex_10_9_generic_class_array.exe
+  ex_10_9_generic_class_array.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_9_generic_class_array\Debug\ex_10_9_generic_class_array.pdb (Full PDB)
