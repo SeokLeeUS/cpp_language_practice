@@ -1,0 +1,4 @@
+﻿  ex_9_18_overloading_operators.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_9_18_overloading_operators\ex_9_18_overloading_operators\ex_9_18_overloading_operators.cpp(22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ex_9_18_overloading_operators.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_9_18_overloading_operators\Debug\ex_9_18_overloading_operators.exe
+  ex_9_18_overloading_operators.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_9_18_overloading_operators\Debug\ex_9_18_overloading_operators.pdb (Full PDB)
