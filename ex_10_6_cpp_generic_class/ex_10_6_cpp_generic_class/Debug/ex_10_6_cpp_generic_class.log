@@ -1,0 +1,4 @@
+﻿  ex_10_6_cpp_generic_class.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_6_cpp_generic_class\ex_10_6_cpp_generic_class\ex_10_6_cpp_generic_class.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+  ex_10_6_cpp_generic_class.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_6_cpp_generic_class\Debug\ex_10_6_cpp_generic_class.exe
+  ex_10_6_cpp_generic_class.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_6_cpp_generic_class\Debug\ex_10_6_cpp_generic_class.pdb (Full PDB)
