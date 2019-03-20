@@ -1,0 +1,4 @@
+﻿  ex_8_18_cpp_helper_func.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_8_18_cpp_helper_func\ex_8_18_cpp_helper_func\main.hpp(56): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ex_8_18_cpp_helper_func.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_8_18_cpp_helper_func\Debug\ex_8_18_cpp_helper_func.exe
+  ex_8_18_cpp_helper_func.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_8_18_cpp_helper_func\Debug\ex_8_18_cpp_helper_func.pdb (Full PDB)

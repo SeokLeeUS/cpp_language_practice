@@ -1,0 +1,39 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <string>
+#include <iostream>
+using namespace std;
+class Dog
+{
+private:
+	int license;
+public:
+	Dog();
+	Dog(int licenseIn);
+	void setLicense(int licenseIn);
+	int getLicense();
+	~Dog();
+};
+
+Dog::Dog()
+{
+	license = 0;
+}
+
+Dog::~Dog()
+{
+	cout<< "\nDeleting the dog";
+}
+
+Dog::Dog(int licenseIn)
+{
+	license = licenseIn;
+}
+
+void Dog::setLicense(int licenseIn)
+{
+	license = licenseIn;
+}
+int Dog::getLicense()
+{
+	return license;
+}
