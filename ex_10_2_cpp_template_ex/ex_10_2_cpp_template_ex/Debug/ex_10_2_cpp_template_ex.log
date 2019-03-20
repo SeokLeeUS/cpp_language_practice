@@ -1,0 +1,5 @@
+﻿  ex_10_2_cpp_template_ex.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_2_cpp_template_ex\ex_10_2_cpp_template_ex\ex_10_2_cpp_template_ex.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\slee194\documents\visual studio 2015\projects\ex_10_2_cpp_template_ex\ex_10_2_cpp_template_ex\ex_10_2_cpp_template_ex.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ex_10_2_cpp_template_ex.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_2_cpp_template_ex\Debug\ex_10_2_cpp_template_ex.exe
+  ex_10_2_cpp_template_ex.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_10_2_cpp_template_ex\Debug\ex_10_2_cpp_template_ex.pdb (Full PDB)
