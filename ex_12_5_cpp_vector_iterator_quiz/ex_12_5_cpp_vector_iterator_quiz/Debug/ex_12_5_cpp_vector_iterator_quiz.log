@@ -1,0 +1,4 @@
+﻿  ex_12_5_cpp_vector_iterator_quiz.cpp
+c:\users\slee194\documents\visual studio 2015\projects\ex_12_5_cpp_vector_iterator_quiz\ex_12_5_cpp_vector_iterator_quiz\ex_12_5_cpp_vector_iterator_quiz.cpp(20): warning C4305: 'argument': truncation from 'double' to 'const float'
+  ex_12_5_cpp_vector_iterator_quiz.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_12_5_cpp_vector_iterator_quiz\Debug\ex_12_5_cpp_vector_iterator_quiz.exe
+  ex_12_5_cpp_vector_iterator_quiz.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\ex_12_5_cpp_vector_iterator_quiz\Debug\ex_12_5_cpp_vector_iterator_quiz.pdb (Full PDB)
