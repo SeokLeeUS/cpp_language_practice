@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Car.cpp
+c:\users\slee194\documents\visual studio 2015\projects\udacity_lesson21_cpp_class_1\udacity_lesson21_cpp_class_1\car.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  udacity_Lesson21_cpp_Class_1.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\udacity_Lesson21_cpp_Class_1\Debug\udacity_Lesson21_cpp_Class_1.exe
+  udacity_Lesson21_cpp_Class_1.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\udacity_Lesson21_cpp_Class_1\Debug\udacity_Lesson21_cpp_Class_1.pdb (Full PDB)
